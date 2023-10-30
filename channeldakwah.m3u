@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/k9xczpaohmmclgy116xm.png" group-title="TV Sunnah",Makkah Live 
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778811/7_a9inru.png" group-title="Live Channel",Makkah Live Youtube 
-https://www.youtube.com/@SaudiQuranTv/live
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778811/7_a9inru.png" group-title="TV Sunnah",Makkah Live Youtube 
+https://youtu.be/cCmTI2-cuP0
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097822/tv%20sunnah/jbwgtywquhgthi0p7rhl.png" group-title="TV Sunnah",Madinah Live 
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/8_dayomr.png" group-title="Live Channel",Madinah Live Youtube
-https://www.youtube.com/@SaudiSunnahTv/live
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/8_dayomr.png" group-title="TV Sunnah",Madinah Live Youtube
+https://youtu.be/gUC3TjCrwRw
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097828/tv%20sunnah/q5rxx5qtdhhvowbezahl.png" group-title="TV Sunnah",Niaga TV 
 https://h1.intechmedia.net/intech/ch10.m3u8
@@ -48,14 +48,17 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097833/tv%20sunnah/wt8ygm47qzlcahkslzdj.png" group-title="TV Sunnah",Salam TV 
 https://h1.intechmedia.net/intech/ch12.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097846/tv%20sunnah/bfjyedfa0u1jam2y48bg.png" group-title="TV Sunnah",MGI TV 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097846/tv%20sunnah/bfjyedfa0u1jam2y48bg.png" group-title="TV Sunnah",MGI TV YOUTUBE
 https://h1.intechmedia.net/intech/ch25.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097846/tv%20sunnah/bfjyedfa0u1jam2y48bg.png" group-title="TV Sunnah",MGI TV 
+https://youtu.be/f7uhzTbv6ts
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097823/tv%20sunnah/evyy44lskcsh2n60yakp.png" group-title="TV Sunnah",Meds TV
 https://h1.intechmedia.net/intech/ch23.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/5_mmt1xk.png" group-title="Live Channel",Meds TV Youtube
-https://youtu.be/qNH9dwGNn7s
+https://youtu.be/zEFjjZkaTIk
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097837/tv%20sunnah/t6oy44y2lm7ikomjd9sw.png" group-title="TV Sunnah",Izzah TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
@@ -63,28 +66,25 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097836/tv%20sunnah/tbgeahshxfbsus3zqlmf.png" group-title="TV Sunnah",Rasyaad TV
 https://h1.intechmedia.net/intech/ch6.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/eu3k2pwobpltulhliv95.png" group-title="Live Channel",Tarbiyah Sunnah 
-https://youtu.be/ReSfit9OvtI
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/6_q7t5qv.png" group-title="Live Channel",Syafiq Riza Basalamah Official
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/6_q7t5qv.png" group-title="TV Sunnah",Syafiq Riza Basalamah Official
 https://youtu.be/IDOn6KHxTrc
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097840/tv%20sunnah/g6qistwh1jcdhqsss4ol.png" group-title="Live Channel",Ufa 24 Live
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097840/tv%20sunnah/g6qistwh1jcdhqsss4ol.png" group-title="TV Sunnah",Ufa 24 Live
 https://youtu.be/Bg77UvoqU8U
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/yuofussjukz1uw3hlowg.png" group-title="Live Channel",KHB Official
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/yuofussjukz1uw3hlowg.png" group-title="TV Sunnah",KHB Official
 https://youtu.be/-p74DE68G78
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/3_ujpm4f.png" group-title="Live Channel",Gazwah TV
-https://youtu.be/tQJnPSDkDb0
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dsbsgt8mv/image/upload/v1685778810/3_ujpm4f.png" group-title="TV Sunnah",Gazwah TV
+https://youtu.be/nphKeU5Wy8A
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/hbnvc8r9m0ewzaipzyhc.png" group-title="Live Channel",Fatwa TV
-https://youtu.be/3vp7Xaum5LY
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/hbnvc8r9m0ewzaipzyhc.png" group-title="TV Sunnah",Fatwa TV
+https://youtu.be/p190Y05P6-A
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/pq1k5lnbla1vnjci4s1b.png" group-title="Live Channel",Rifqan TV
-https://youtu.be/kygRv2ZRmos
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1685615358/tv%20sunnah/pq1k5lnbla1vnjci4s1b.png" group-title="TV Sunnah",Rifqan TV
+https://youtu.be/xpIKndML_ZA
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097839/tv%20sunnah/txfswte04bubjjdzabjy.png" group-title="Live Channel",SunnahJalanPasti
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097839/tv%20sunnah/txfswte04bubjjdzabjy.png" group-title="TV Sunnah",SunnahJalanPasti
 https://youtu.be/WBCewSFyAOQ
 
 
